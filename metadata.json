@@ -1,0 +1,5 @@
+{
+  "name": "StoreFlow AI Inventory",
+  "description": "A professional inventory management system with Inward/Outward tracking and AI-powered product image editing using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
